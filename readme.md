@@ -1,1 +1,1 @@
-# A simple website template for a Discord server
+# Alles hat ein Ende
